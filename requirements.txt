@@ -1,4 +1,5 @@
 websocket-client
+mailgw_temporary_email
 requests
 tls-client
 pypasser
@@ -9,7 +10,7 @@ streamlit==1.21.0
 selenium
 fake-useragent
 twocaptcha
-https://github.com/AI-Yash/st-chat/archive/refs/pull/24/head.zip
+https://githubfast.com/AI-Yash/st-chat/archive/refs/pull/24/head.zip
 pydantic
 pymailtm
 Levenshtein
